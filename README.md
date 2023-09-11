@@ -31,7 +31,7 @@
 
 ## 🔖 Project
 
-O TinDev é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+TinDev is a project aimed at connecting developers near you who work with the same technologies.
 
 ## 💻 Executing
 
